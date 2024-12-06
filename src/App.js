@@ -6,7 +6,7 @@ import './App.css'
 // Fotoğrafları import ediyoruz
 import bahar1 from './images/WhatsApp Image 2024-12-06 at 09.34.34.jpeg'
 import bahar2 from './images/WhatsApp Image 2024-12-06 at 09.34.35.jpeg'
-import bahar3 from './images/WhatsApp Image 2024-12-06 at 09.34.35 (1).jpeg'
+import bahar11 from './images/WhatsApp Image 2024-12-06 at 09.34.35 (1).jpeg'
 import bahar4 from './images/WhatsApp Image 2024-12-06 at 09.34.35 (2).jpeg'
 import bahar5 from './images/WhatsApp Image 2024-12-06 at 09.34.36.jpeg'
 import bahar6 from './images/WhatsApp Image 2024-12-06 at 09.34.36 (1).jpeg'
@@ -14,6 +14,7 @@ import bahar7 from './images/WhatsApp Image 2024-12-06 at 09.34.36 (2).jpeg'
 import bahar8 from './images/WhatsApp Image 2024-12-06 at 09.34.37.jpeg'
 import bahar9 from './images/WhatsApp Image 2024-12-06 at 09.34.37 (1).jpeg'
 import bahar10 from './images/WhatsApp Image 2024-12-06 at 09.34.37 (2).jpeg'
+import bahar3 from './images/taylor.jpeg'
 
 const quotes = [
   "Miroya girsene fikirleri",
@@ -24,7 +25,7 @@ const quotes = [
 
 const photos = [
   bahar1, bahar2, bahar3, bahar4, bahar5,
-  bahar6, bahar7, bahar8, bahar9, bahar10
+  bahar6, bahar7, bahar8, bahar9, bahar10, bahar11
 ]
 
 function App() {
